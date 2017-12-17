@@ -1,3 +1,3 @@
 # TreesBinaryTreesSearchesHeaps
 
-https://i.imgur.com/YIHWIkV.gif
+![alt text](https://i.imgur.com/YIHWIkV.gif)
